@@ -1,4 +1,4 @@
-# yuptude
+# [yuptude](http://www.yuptude.com)
 
 yuptude is a tiny bookmarklet that you can use to speed up or slow down HTML5 videos in your browser.  When activated, yuptude adds a small control panel that you can use to manually adjust the playbackRate for all videos on the current page.
 
